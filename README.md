@@ -1,3 +1,7 @@
+![Screenshot](peliculasApi.png)
+![Screenshot](peliculasAPI2.png)
+![Screenshot](peliculasAPI3.png)
+
 App realizada a modo de práctica en el curso Full Stack Developer de Digital House.
 
 La App consume datos a travéz de una Api interna y otra externa.
