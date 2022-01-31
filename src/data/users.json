@@ -1,0 +1,50 @@
+[
+ {
+  "id": "user-cg54z1b64kxly7r7p",
+  "nombre": "diego asz",
+  "email": "lalala@gmail.com",
+  "password": "$2b$10$73YyDJOtI0JbiJ8ZH8S67exJSQojnrACJ07f7Sf/I6Mk5sRjBy.Q2"
+ },
+ {
+  "id": "user-cg54z1blkkxlyg4il",
+  "nombre": "a",
+  "email": "nosequeponer@nose.com",
+  "password": "$2b$10$TQQaoKyD3l1JOAvB0y.KO.vxKriScpoMeqWn/2f4qtgibS/HlUn6i"
+ },
+ {
+  "id": "user-cg54z1bqckxlyoqyq",
+  "nombre": "hoy",
+  "email": "hoy@hoy.com",
+  "password": "$2b$10$ZmqPHYmlT74E//JMtd1BrOBuX59wvtzQrK7c9/INnzNYAOSDF8/Wu"
+ },
+ {
+  "id": "user-cg54z1btwkxlysxee",
+  "nombre": "otro",
+  "email": "otro@otro.com",
+  "password": "$2b$10$QEiQbHJZh0eHteDbBlOsHuvxchfMGGqsL5zLkhhoJYMZLzFfRWQky"
+ },
+ {
+  "id": "user-cg54z1bxckxlyxy3h",
+  "nombre": "diego",
+  "email": "diego@asz.com",
+  "password": "$2b$10$4vzQ.uELs9RLbV.B0HfohOE78n02l2WJ3XVBIeG7PKavErHAttVKy"
+ },
+ {
+  "id": "user-cg54z1q56kxtmbzs9",
+  "nombre": "hola1234",
+  "email": "hola@hola.com",
+  "password": "$2b$10$BS8WopyuRsOqc8Uhx51qqO.pS6e7sjkERU9G8vHBB2VsYOIXaxy0S"
+ },
+ {
+  "id": "user-cg54z1uohkxvz1mi3",
+  "nombre": "prueba",
+  "email": "prueba@prueba.com",
+  "password": "$2b$10$UHocSLRQsuRop/F1fjkkbO67tL7SaKhnCCovzsmwKCmGUkBkj4NI."
+ },
+ {
+  "id": "user-cg54zz6vkz2x0t9v",
+  "nombre": "a",
+  "email": "galante.julian@gmail.com",
+  "password": "$2b$10$1jcmNgmWr7pE4nOxCFEENOaGOzc/Ae94GWE7mOXS9XSqHC99DLN3e"
+ }
+]

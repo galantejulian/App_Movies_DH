@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title class="titulo">Editar Película</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <figure>
+        <img src="/img/logo-DH.png" alt="Logo Digital House">
+      </figure>
+    <h1 class="titulo">Login</h1>
+
+    <section class="formulario">
+        <form action="/user/login" method="POST">
+            <label for="email">Email: </label>
+            <p><input 
+                type="email" 
+                name="email" 
+                id="" 
+                value=<%= locals.old && old.email ? old.email : " " %>
+                >
+                <% if (locals.errors && errors.email){  %>
+                    <div  style="color:rgb(255,0,0);">
+                      <%= errors.email.msg   %> 
+                    </div>
+                    <% } %> 
+                </p>
+                <label for="password">Password: </label>
+                <p><input 
+                    type="password" 
+                    name="password" 
+                    id="password" 
+                    >
+                    <% if (locals.errors && errors.password){  %>
+                        <div  style="color:rgb(255,0,0);">
+                          <%= errors.password.msg   %> 
+                        </div>
+                        <% } %> 
+                    </p>
+
+                <button class="botonAgregar" type="submit">Login</button>
+              </p>
+            </form>
+              <p> 
+                <a class="checkbox" href="/user/register">¿No tienes cuenta? Creala</a>
+            </p>
+        
+    </section>
+</body>
+
+</html>
