@@ -1,12 +1,11 @@
 ![Screenshot](peliculasApi.png)
 ![Screenshot](peliculasAPI3.png)
 
-App realizada a modo de práctica en el curso Full Stack Developer de Digital House.
 
-La App consume datos a travéz de una Api interna y otra externa.
-La película será buscada primero en la base de datos interna y en caso de no ser encontrada la consumirá a través de una api externa.
+App made as a practice in the Full Stack Developer course of Digital House.
 
-Agregué ademas un CRUD y un registro/login con sus respectivos middlewares.
-Permite tambien, ordenarlas por fecha de estreno.
+The App consumes data through an internal and an external API. The movie will be searched first in the internal database and if it is not found, it will be consumed through an external api.
 
-tecnologías usadas: html, css, javascript, express, node.js, sequelize, ejs. 
+I also added a CRUD and a registration/login with their respective middlewares. It also allows you to sort them by release date.
+
+🤜Technologies used: html, css, javascript, express, node.js, sequelize, ejs. 🤛 
